@@ -1,0 +1,2 @@
+Prefix plugins/CSVAppend/example
+Plugin CSVAppend inputfile parameters.txt outputfile testdataextended.csv
