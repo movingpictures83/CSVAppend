@@ -1,7 +1,9 @@
+# CSVAppend
 # Language: R
 # Input: TXT (keyword-value pairs)
 # Output: CSV 
-# Tested with: PluMA 1.0, R 4.0
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: numpy==1.16.0
 
 PluMA plugin to append to a CSV file (row or column).
 
